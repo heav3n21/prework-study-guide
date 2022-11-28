@@ -1,17 +1,22 @@
 
-# Study Guide Webpage
+# prework-study-guide
+# Study Guide
 
 ## Description
-This study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, git, and JavaScript.
+
+
+- My motivation was my desire to wwanting to become a software dev.
+- I built this website to understand the building blocks of HTML, CSS, and JS.
+- This web application helps students write notes and study in a simple format.
+- I learned the fundamentals of HTML, CSS, and JS.
+
 
 ## Installation
 
 N/A
 
 ## Usage
-To use this Study guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by 
-pressing command+Option+I (MacOS) or Control+Shift+I (windows).A console panel should open either below or to the side of the webpage in the browser.
-There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
+This applications has 3 topics that include HTML,CSS, and JS. to allow users to read notes on them.
 
 
 
@@ -22,4 +27,7 @@ N/A
 
 ## License
 
-MIT license , Please refer to the LICENSE in the repo.
+MIT license
+---
+
+🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
